@@ -3,7 +3,7 @@ June 2019, Python version of a famous Italian card game. <br>
 The whole document is very short, and the game is easy, but the code implementation needed some thoughtful considerations.
 
 ## Purpose and outline 
-The following is a simple combination of Jupyter Notebook adn pdf version of a code I made around 2 years ago, just after the end of my basic course in programming with pyhton and algorithms. It was my first individual projects, not a university or job related task, just for the sake of fun and interest in understanding some of the capabilities of a beautiful programming language such as Python. 
+The following is a simple combination of Jupyter Notebook and pdf version of a code I made around 2 years ago, just after the end of my basic course in programming with pyhton and algorithms. It was my first individual project, not a university or job related task, just for the sake of fun and interest in understanding some of the capabilities of a beautiful programming language such as Python. 
 
 # Author 
 Simone Maria Giancola <br>
